@@ -1,5 +1,4 @@
 # creationalpatterns
-5 sablonuri creationale
 	Acest repozitoriu contine codul necesar pentru Laboratorul Nr.1, cu 5 sabloane creationale.
 		1. Singleton
 		2. Factory
